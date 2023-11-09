@@ -29,10 +29,6 @@ This microservice is designed to be a scalable, secure foundation for user manag
 ## Security
 This project uses JWT for secure authentication and Spring Security for authorization checks. Passwords are stored in hashed form for added security.
 
-## Contributing
-Feel free to fork this repository and submit pull requests to contribute to this project. Please make sure to update tests as appropriate.
-
-
 
 ## Contact
 If you have any questions or would like to contact me regarding employment opportunities, please email me at trae.brown24@outlook.com.
